@@ -1,1 +1,1 @@
-[![gif](https://github.com/ROBERTOCONRADO/FormLogin/blob/main/formLogin.gif)]
+![gif](https://github.com/ROBERTOCONRADO/FormLogin/blob/main/formLogin.gif)
